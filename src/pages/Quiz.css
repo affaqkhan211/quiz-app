@@ -1,0 +1,22 @@
+.questions-div{
+    width: 500px;
+    margin : 0 auto
+}
+
+.option-btn{
+    display: flex;
+    margin-top: 8px;
+    width: 100%;
+    background-color: grey;
+    color: white;
+    font-size: 22px;
+}
+
+span{
+    font-size: 25px;
+}
+
+.next-btn{
+    width: 200px;
+    font-size: 22px;
+}
